@@ -1,2 +1,4 @@
 # Consultant-for-Cab-Company-Investment-Analysis
-Enhanced inventory management practices by analyzing a comprehensive sales dataset to identify sales trends, product performance, and inventory optimization opportunities.
+Calculated company's profitability over various time periods and identified the top-performing company.
+Created an interactive dashboard with slicers to enable demographic-based insights for data-driven.
+Delivered a final presentation emphasizing data-driven recommendations, visual storytelling, and key insights on customer demographics, payment preferences, and company profitability to support investment decisions.
